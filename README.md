@@ -9,3 +9,5 @@ DOMAIN: PYTHON PROGRAMMING
 INTERN ID: CS25RY89314
 
 DURATION: 4 WEEKS
+
+# https://github.com/Anushka-trivedi931/CODSOFT-PASSWORD-GENERATOR/blob/main/password%20generator.py
